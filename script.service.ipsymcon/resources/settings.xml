@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <setting id="host" type="text" label="30000" default=""/>
+   <setting id="script-id-start" type="number" label="30001" default="99999"/>
+   <setting id="script-id-end" type="number" label="30002" default="99999"/>
+   <setting id="script-id-pause" type="number" label="30003" default="99999"/>
+   <setting id="script-id-resume" type="number" label="30004" default="99999"/>
+</settings>
